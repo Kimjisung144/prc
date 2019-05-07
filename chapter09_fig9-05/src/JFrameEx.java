@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class JFrameEx extends JFrame{
 	public JFrameEx() {
-		setTitle("프레임 구성");
+		setTitle("good");
 		
 		JMenuBar mb = new JMenuBar();
 		JMenu fileMenu = new JMenu("File");
